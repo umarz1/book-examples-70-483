@@ -1,0 +1,11 @@
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\bin\Debug\netcoreapp2.2\book-examples-70-483.deps.json
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\bin\Debug\netcoreapp2.2\book-examples-70-483.runtimeconfig.json
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\bin\Debug\netcoreapp2.2\book-examples-70-483.runtimeconfig.dev.json
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\bin\Debug\netcoreapp2.2\book-examples-70-483.dll
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\bin\Debug\netcoreapp2.2\book-examples-70-483.pdb
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\obj\Debug\netcoreapp2.2\book-examples-70-483.csprojAssemblyReference.cache
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\obj\Debug\netcoreapp2.2\book-examples-70-483.csproj.CoreCompileInputs.cache
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\obj\Debug\netcoreapp2.2\book-examples-70-483.AssemblyInfoInputs.cache
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\obj\Debug\netcoreapp2.2\book-examples-70-483.AssemblyInfo.cs
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\obj\Debug\netcoreapp2.2\book-examples-70-483.dll
+C:\Apprenticeship\book-examples-70-483\book-examples-70-483\obj\Debug\netcoreapp2.2\book-examples-70-483.pdb
